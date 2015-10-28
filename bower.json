@@ -1,0 +1,15 @@
+{
+  "name": "055-roa",
+  "version": "0.0.0",
+  "authors": [
+    "Wenjun LIN <wenjun.lin@rea-group.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
